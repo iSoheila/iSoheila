@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <h2 data-importer="text" align="left">Technical Skills</h2>
 
 ###
-
-<div data-importer="techs" align="left">
+<div data-importer="techs" style="display: flex; gap: 12px; align-items: center;">
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
