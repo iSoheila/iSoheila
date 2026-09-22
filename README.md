@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://www.mongodb.com" target="_blank">
- <img align="left" title="PostgreSQL" alt="mongodb logo" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+ <img align="left" title="MongoDB" alt="mongodb logo" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </a>
 
 <a href="https://www.python.org" target="_blank">
