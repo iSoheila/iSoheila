@@ -33,6 +33,9 @@
 <a href="https://aws.amazon.com" target="_blank">
   <img align="left" title="Amazon Web Services" alt="amazonwebservices logo" width="40px" src="https://jsdelivr.net" />
 </a>
+<a href="https://aws.amazon.com" target="_blank">
+  <img align="left" title="Amazon Web Services" alt="Amazon Web Services Logo" width="40px" src="https://wikimedia.org" />
+</a>
 
 </div>
 
