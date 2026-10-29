@@ -31,7 +31,8 @@
 </a>
 
 <a href="https://aws.amazon.com" target="_blank">
- <img align="left" title="Amazon Web Services" alt="amazonwebservices logo" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" />
+  <img align="left" title="Amazon Web Services" alt="amazonwebservices logo" width="40px" src="https://jsdelivr.net" />
 </a>
+
 </div>
 
