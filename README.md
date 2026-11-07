@@ -29,10 +29,10 @@
 <a href="https://pt-br.reactjs.org" target="_blank">
  <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  />
 </a>
-
+<--
 <a href="https://aws.amazon.com" target="_blank">
   <img align="left" title="Amazon Web Services" alt="AWS logo" width="40" src="https://wikimedia.org" />
 </a>
-
+-->
 </div>
 
